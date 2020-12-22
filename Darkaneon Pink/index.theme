@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Darkaneon Pink
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Darkaneon Pink
+MetacityTheme=Darkaneon Pink
+IconTheme=Luna-Dark
+CursorTheme=Luna
+CursorSize=24
