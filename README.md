@@ -1,2 +1,2 @@
-# Lim
-Less is more...
+# Darkaneon Pink
+Dark style GTK theme
